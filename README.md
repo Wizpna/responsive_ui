@@ -3,7 +3,7 @@ This is a simple project that will help you learn how to build a hitch-free and 
 
 You can read an article about this project, which is on medium: https://medium.com/flutter-community/build-your-responsive-flutter-layout-like-a-pro-6bf86aaed81e
 
-<img src="https://miro.medium.com/max/1300/1*SxDSANlRrhZBNl2tN7wzfw.jpeg"  title="Google_Search">
+<img src="https://miro.medium.com/max/1300/1*SxDSANlRrhZBNl2tN7wzfw.jpeg"  title="responsive_ui">
 
 Contact - Let's become friends
 
